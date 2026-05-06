@@ -146,8 +146,8 @@ Follow: `dashboard/dashboard_guide.md`
 ## 👤 Author
 
 Your Name  
-LinkedIn: linkedin.com/in/yourprofile  
-GitHub: github.com/yourusername
+LinkedIn: https://www.linkedin.com/in/varun-kumar-kesineni-80a427326
+GitHub: https://github.com/varunkumarkesineni
 
 ---
 
