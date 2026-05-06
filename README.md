@@ -1,13 +1,12 @@
 # 🛒 Sales & E-commerce Analytics System
 
 > End-to-end business analytics project using Python, SQL, and Power BI / Tableau  
-> Built for campus placements & data analyst internship interviews
 
 ---
 
 ## 📌 Problem Statement
 
-A mid-size e-commerce company wants to understand its sales performance, identify high-value customers, reduce churn, and optimize product strategy. This project builds a complete analytics pipeline — from raw data to an interactive KPI dashboard.
+A mid size e-commerce company wants to understand its sales performance, identify high-value customers, reduce churn, and optimize product strategy. This project builds a complete analytics pipeline from raw data to an interactive KPI dashboard.
 
 ---
 
